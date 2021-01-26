@@ -1,0 +1,7 @@
+print("Input X")
+x = input()
+print("Inpout y")
+y = input()
+print("Input z")
+z = input()
+print(x, "時の", y, "は", z)
